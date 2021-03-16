@@ -14,6 +14,7 @@ similar images can be created with:
 
 * vanilla
 * chipotle
+* jalapeno
 * pepper
 * oregano
 * basil
