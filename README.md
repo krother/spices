@@ -13,6 +13,7 @@ similar images can be created with:
 ## Here are some spices
 
 * vanilla
+* jalapeno
 * pepper
 * oregano
 * basil
